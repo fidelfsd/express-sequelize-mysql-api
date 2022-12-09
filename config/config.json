@@ -4,7 +4,7 @@
     "password": "1234",
     "database": "GeeksHubs",
     "host": "127.0.0.1",
-    "posrt": 3306,
+    "port": 3306,
     "dialect": "mysql"
   },
   "test": {
@@ -16,10 +16,10 @@
   },
   "production": {
     "username": "root",
-    "password": "mC8dPb1sjziS40V8HLco",
+    "password": "ZN2W1oErpFawpIzZE9Bf",
     "database": "railway",
-    "host": "containers-us-west-125.railway.app",
-    "port": 7932,
+    "host": "containers-us-west-46.railway.app",
+    "port": 7397,
     "use_env_variable": "MYSQL_URL",
     "dialect": "mysql"
   }
